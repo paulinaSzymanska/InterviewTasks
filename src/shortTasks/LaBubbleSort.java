@@ -1,9 +1,9 @@
-package src;
+package src.shortTasks;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class BubbleSort {
+public class LaBubbleSort {
     public static void main(String[] args) {
         List<Integer> integers = Arrays.asList(4, -2, 3, -5, 1, 2);
         System.out.println(bubbleSort(integers));
