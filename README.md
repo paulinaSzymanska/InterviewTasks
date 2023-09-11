@@ -8,3 +8,4 @@ src/shortTasks
 - FizzBuzz 07.09.2023
 - Fibonacci 07.09.2023
 - Palindrome 08.09.2023
+- CeasarCipher 11.09.23
