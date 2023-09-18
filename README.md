@@ -1,6 +1,7 @@
 # differentTasks
-In this repo I add my finished programming exercises. Because I work as a software engineer it takes me a lot of time to
-add here something new.
+In this repo I add my finished programming exercises. 
+src/shortTasks contains easy tasks
+src/longTasks contains these more difficult tasks
 
 ## Added
 src/shortTasks
@@ -8,4 +9,6 @@ src/shortTasks
 - FizzBuzz 07.09.2023
 - Fibonacci 07.09.2023
 - Palindrome 08.09.2023
-- CeasarCipher 11.09.23
+- CaesarCipher 11.09.23
+- FilterString 18.09.23
+- Binary Tree Depth
