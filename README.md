@@ -1,7 +1,7 @@
 # differentTasks
 In this repo I add my finished programming exercises.
 
-### src/shortTasks contains easy tasks
+### src/shortTasks contains 10 easy tasks
 ### src/longTasks contains these more difficult tasks
 
 ## Added
