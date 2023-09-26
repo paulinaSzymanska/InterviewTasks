@@ -13,4 +13,4 @@ src/shortTasks
 - CaesarCipher 11.09.23
 - FilterString 18.09.23
 - Binary Tree Depth 22.09.23
-- LongestCommonSequence
+- LongestCommonSequence 26.09.23
