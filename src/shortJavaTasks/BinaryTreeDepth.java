@@ -1,4 +1,4 @@
-package src.shortTasks;
+package src.shortJavaTasks;
 
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.TreeNode;
