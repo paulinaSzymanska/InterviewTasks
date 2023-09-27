@@ -14,4 +14,5 @@ src/shortTasks
 - FilterString 18.09.23
 - Binary Tree Depth 22.09.23
 - LongestCommonSequence 26.09.23
-- PrimeNumber
+- PrimeNumber 27.09.23
+- RandomNumbers 27.09.23

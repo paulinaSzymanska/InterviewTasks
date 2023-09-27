@@ -1,4 +1,4 @@
-package src.shortTasks;
+package src.shortJavaTasks;
 
 import java.util.Arrays;
 import java.util.List;

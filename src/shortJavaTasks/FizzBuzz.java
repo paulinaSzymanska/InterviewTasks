@@ -1,4 +1,4 @@
-package src.shortTasks;
+package src.shortJavaTasks;
 
 //Write a method that returns 'Fizz' for multiples of three and 'Buzz' for the multiples of five.
 //        For numbers which are multiples of both three and five return 'FizzBuzz'.
