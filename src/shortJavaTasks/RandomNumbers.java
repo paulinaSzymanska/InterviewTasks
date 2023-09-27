@@ -2,7 +2,7 @@ package src.shortJavaTasks;
 
 import java.util.Random;
 
-//Create a method called printRandomNumbers that generates two random numbers and prints their sum as the result.
+// Create a method called printRandomNumbers that generates two random numbers and prints their sum as the result.
 public class RandomNumbers {
     public static void main(String[] args) {
         System.out.println(printRandomNumbers(111));
