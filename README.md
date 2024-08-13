@@ -3,7 +3,7 @@ In this repo I add my finished programming exercises.
 
 ### src/java/shortTasks contains 10 easy tasks without written tests
 ### src/java/longTasks contains these more difficult tasks with tests
-### src/java/codeWars contains tasks from codeWars with tests
+### src/java/codeWars contains tasks from codeWars/leetcode with tests
 
 ## Added
 src/java/shortTasks
@@ -17,6 +17,9 @@ src/java/shortTasks
 - LongestCommonSequence 26.09.23
 - PrimeNumber 27.09.23
 - RandomNumbers 27.09.23
+
+Leetcode https://leetcode.com/
+- RotateArray (189 Medium)
 
 
 ## Added
