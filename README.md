@@ -5,7 +5,7 @@ In this repo I add my finished programming exercises.
 
 ## Added
 
-### Codewars Easy
+### Codewars: easy
 
 - LaBubbleSort 29.08.2023
 - FizzBuzz 07.09.2023
@@ -18,7 +18,7 @@ In this repo I add my finished programming exercises.
 - PrimeNumber 27.09.23
 - RandomNumbers 27.09.23
 
-### Leetcode Medium
+### Leetcode: medium
 
 - RotateArray (189) 13.08.24
 
