@@ -21,5 +21,5 @@
 
 ### Leetcode: medium
 
-- RotateArray (189) 13.08.24
+- RotateArray 13.08.24
 
