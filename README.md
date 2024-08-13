@@ -1,7 +1,8 @@
-In this repo I add my finished programming exercises.
+## In this repository, I share my completed programming exercises.
 
-### src/java/codeWars.easy contains 10 easy from codeWars website https://www.codewars.com/
-### src/java/leetcode.medium contains tasks from leetcode website https://leetcode.com/
+### Content:
+- src/java/codeWars.easy contains 10 easy from codeWars website https://www.codewars.com/
+- src/java/leetcode.medium contains tasks from leetcode website https://leetcode.com/
 
 ## Added
 
