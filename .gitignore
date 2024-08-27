@@ -1,4 +1,8 @@
 /out
 .idea
+<<<<<<< HEAD
 javka.iml
 InterviewTasks.iml
+=======
+javka.iml
+>>>>>>> 3980b169ef0a38447ff33a2445272cda779acebd
