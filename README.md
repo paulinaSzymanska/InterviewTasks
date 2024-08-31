@@ -25,9 +25,3 @@
 - RemoveDuplicates 15.08.24
 - FirstOccurrence 15.08.24
 - SearchInsertPosition 26.08.24
-
-
-### Leetcode: hard
-
-- IntegerToEnglishWords
-
